@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/bean/Criticism.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/bean/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/bean/Message.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/bean/Reply.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao/CriticismDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao/EmployeeDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao/MessageDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao/ReplyDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/daoImpl/CriticismDAOImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/daoImpl/EmployeeDAOImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/daoImpl/MessageDAOImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/daoImpl/ReplyDAOImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/factory/CriticismDAOFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/factory/EmployeeDAOFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/factory/MessageDAOFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/factory/ReplyDAOFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/factory/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/servlet/CommitCriticism.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/servlet/CommitReply.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/servlet/GetMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/servlet/GetMessageList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/servlet/MsgPublish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/servlet/StatusRecognise.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/util/DBConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/util/Page.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/util/PageUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
